@@ -8,7 +8,7 @@ The Application is divided in 4 areas:
 - View Mac Frequency
 - Configuration
 
-![screenshot from 2018-10-31 16-00-17](https://user-images.githubusercontent.com/33552039/47797180-1e33b100-dd26-11e8-9c0f-baa23af09a89.png)
+#![screenshot from 2018-10-31 16-00-17]#(https://user-images.githubusercontent.com/33552039/47797180-1e33b100-dd26-11e8-9c0f-baa23af09a89.png)
 
 
 ## View Graph
